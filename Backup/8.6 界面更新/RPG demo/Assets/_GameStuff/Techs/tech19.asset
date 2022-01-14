@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96f7796bb6319a044a73280fcb3dd9cc, type: 3}
+  m_Name: tech19
+  m_EditorClassIdentifier: 
+  techname: "RPG<br>\u5267\u60C5\u5904\u7406"
+  techID: 19
+  effect: effect, effec, teffecteffecteffect
+  requirement: requirement, requirementrequirement,requirement
+  level: 0
+  type: 19
+  icon: {fileID: 21300000, guid: f18a0723e04e3bb4fbce4e0a2c3dbff3, type: 3}

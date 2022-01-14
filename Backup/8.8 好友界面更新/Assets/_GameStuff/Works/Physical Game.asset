@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9dfd15d5ccf6dbd4f91171a02dafa469, type: 3}
+  m_Name: Physical Game
+  m_EditorClassIdentifier: 
+  m_GameName: "\u300CPhysical Game\u300D"
+  m_credit: "\u76D6\u59C6 \u7236\u4EB2"
+  m_Point: 8.4
+  m_Picture: {fileID: 21300000, guid: f4e9c991f8c3bd34c81a888d919addc0, type: 3}
+  m_Thumbnail: {fileID: 21300000, guid: fb4b297c294aaed41821202b2fc2e67b, type: 3}

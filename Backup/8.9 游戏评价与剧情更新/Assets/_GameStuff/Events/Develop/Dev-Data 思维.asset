@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 963e5224ffab2364fa353a5cf6e37cf0, type: 3}
+  m_Name: "Dev-Data \u601D\u7EF4"
+  m_EditorClassIdentifier: 
+  m_Genre: 1
+  m_Type: 9
+  m_Title: "\u6570\u503C-\u601D\u7EF4"
+  cg: {fileID: 21300000, guid: 5e5b894cd9c479a42836497063102c26, type: 3}
+  icon: {fileID: 0}
+  m_ButtonTexture: {fileID: 0}
+  m_DialogBlock: Dev-Mind
+  m_difficulty: 0
+  m_targetSkill:
+  - type: 0
+    skill: {fileID: 11400000, guid: 12faa760bb39e8d4e9a8118ab87e7680, type: 2}
+  - type: 1
+    skill: {fileID: 11400000, guid: 9acd70e6afc98c04eb3cb1257c5eb75b, type: 2}
+  m_isSuccess: 0
+  m_Result: 0001
+  dCoin: 0
+  dStrength: 0
+  dMental: 0
+  dStrengthExp: 0
+  dMentalExp: 0
+  type: 1
+  m_Progress: 0
+  boolName: isSuccess
+  m_DevName: "\u6570\u503C\u7ED3\u6784"

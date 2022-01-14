@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c407a504a7c0ae046aa7cd966ea24058, type: 3}
+  m_Name: "\u5E03\u62C9\u5FB7"
+  m_EditorClassIdentifier: 
+  NPCname: "\u5E03\u62C9\u5FB7"
+  age: 40
+  img: {fileID: 21300000, guid: c29dbd76c291f804399789ee03eb0083, type: 3}
+  portrait: {fileID: 21300000, guid: e844f19e2603ee04d9636d84645427ff, type: 3}
+  description: fdddddddd
+  job: 0
+  level: 2
+  stage: 0
+  status:
+    Body: 8
+    Willpower: 9
+    Mind: 7
+    Knowledge: 8
+    Practical: 11
+  techs:
+  - {fileID: 11400000, guid: 9e6aa0069139a4a43ac6c1c7b38570ba, type: 2}
+  - {fileID: 11400000, guid: 7e45033946d125749aaf5bb3540e3f21, type: 2}
+  - {fileID: 11400000, guid: 24074567b4c020d418d89135024ece1a, type: 2}
+  dialogs:
+  - ddddd
+  - fffffffff
+  techUI: {fileID: 1330239760970521201, guid: b79110daaf455d741a029016f17dacd9, type: 3}
